@@ -1,3 +1,3 @@
 # hello-xenny
 my first repo
-I love :coffee:, :pizza:
+I love :coffee:, I hate :pizza:
